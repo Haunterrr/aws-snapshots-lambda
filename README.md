@@ -1,2 +1,3 @@
 # aws-snapshots-lambda
-EBS Snapshots using only AWS Lambda
+
+* AWS Lambda functions for managing EC2 EBS volume snapshots.
